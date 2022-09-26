@@ -1,2 +1,3 @@
 this is training class
 git is lighter
+git is fast
