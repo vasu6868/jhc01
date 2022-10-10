@@ -2,6 +2,9 @@ this is training class
 git is lighter
 git is fast
 git is lower
+<<<<<<< HEAD
 git best
 git good
 docker
+=======
+>>>>>>> 91a5587ef54129970f5870770017c4bde4fb1f5d
