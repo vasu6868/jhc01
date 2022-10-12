@@ -5,3 +5,4 @@ maven
 code 
 bel
 hal
+aws
