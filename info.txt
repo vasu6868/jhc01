@@ -5,4 +5,4 @@ git is lower
 git best
 git good
 docker
-git is 
+git to the practice
