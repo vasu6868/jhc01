@@ -11,3 +11,5 @@ birth
 jif
 hi
 hello
+hi
+bye
