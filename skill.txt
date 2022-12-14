@@ -7,15 +7,3 @@ bel
 hal
 aws
 git
-birth
-jif
-hi
-hello
-<<<<<<< HEAD
-hi
-bye
-=======
-iuhidheu
-hi
-bye
->>>>>>> 1643fd7bf2f1ad88a7b36aef87207d7b8be26aaf
