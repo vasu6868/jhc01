@@ -8,5 +8,9 @@ hal
 aws
 git
 birth
+jif
+hi
+hello
+iuhidheu
 hi
 bye
