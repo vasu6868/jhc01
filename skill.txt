@@ -12,3 +12,5 @@ jif
 hi
 hello
 iuhidheu
+hi
+bye
